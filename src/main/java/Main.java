@@ -1,5 +1,6 @@
 
 public class Main {
+    //Main du code
 	public static void main(String argv[]) {
         Pile maPile = new Pile(10);
         if (!maPile.est_vide()) System.out.println("NOK");

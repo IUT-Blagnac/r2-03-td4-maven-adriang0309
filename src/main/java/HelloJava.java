@@ -7,5 +7,9 @@ class HelloJava {
 	public static String afficherCancan(){
 		return "Cancan";
 	}
+
+	public static void main(String[] args) {
+		System.out.println("Hello Blagnac");
+	}
 	
 }

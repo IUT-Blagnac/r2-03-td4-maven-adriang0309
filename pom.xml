@@ -28,7 +28,8 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloJava</mainClass>
+            <!--il faut changer la ligne 32 avec le nom de la nouvelle classe-->
+              <mainClass>Main</mainClass>
             </manifest>
           </archive>
         </configuration>

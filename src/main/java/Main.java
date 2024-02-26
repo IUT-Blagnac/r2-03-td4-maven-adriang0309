@@ -16,7 +16,7 @@ public class Main {
 		}
         if (!maPile.est_vide()) System.out.println("NOK");
         if (element != 5) System.out.println("NOK");
-    System.out.println("Bonjour"); //Changé pour le TP4 de Qualite
+    System.out.println("Hello Blagnac"); //Changé pour le TP4 de Qualite
     }
 
 }
